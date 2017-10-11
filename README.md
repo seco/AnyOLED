@@ -3,8 +3,8 @@ Mod of Adafruit and Anonymous SSD1306 OLED Drivers that can function on non-Ardu
 
 # Upcoming Changes:
 
-More text sizes
+More Text Sizes (to allow more variety)
 
 Custom Splash
 
-Display 'Animated GIF' or Sequence of BMPs
+Display 'Animated GIF' or BMP Sequences
