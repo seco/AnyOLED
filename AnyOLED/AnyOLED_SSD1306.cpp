@@ -1,21 +1,3 @@
-/*********************************************************************
-This is a library for our Monochrome OLEDs based on SSD1306 drivers
-
-  Pick one up today in the AnyOLED shop!
-  ------> http://www.AnyOLED.com/category/63_98
-
-These displays use SPI to communicate, 4 or 5 pins are required to
-interface
-
-AnyOLED invests time and resources providing this open source code,
-please support AnyOLED and open-source hardware by purchasing
-products from AnyOLED!
-
-Written by Limor Fried/Ladyada  for AnyOLED Industries.
-BSD license, check license.txt for more information
-All text above, and the splash screen below must be included in any redistribution
-*********************************************************************/
-
 #ifdef __AVR__
   #include <avr/pgmspace.h>
 #elif defined(ESP8266) || defined(ESP32)
