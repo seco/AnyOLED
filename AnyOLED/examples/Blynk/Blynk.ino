@@ -1,3 +1,6 @@
+//My own project for a small weather station / automated room control with Blynk. It is very messy. 
+//In the middle of changing to the AnyOLED lib, so ignore the OLED commands. 
+
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
