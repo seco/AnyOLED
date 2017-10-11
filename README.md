@@ -3,8 +3,6 @@ A mod of Adafruit and an anonymous SSD1306 OLED Drivers that can function on non
 
 ## Upcoming Changes
 
-More Text Sizes (to give variety)
-
-Custom Splash
-
-Display 'Animated GIF' or BMP Sequences
+  * More Text Sizes (to give more options)
+  * Custom Splash
+  * Display 'Animated GIF' or BMP Sequences
